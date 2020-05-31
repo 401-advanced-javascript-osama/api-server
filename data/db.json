@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "electronics",
+      "display_name": "elec",
+      "description": "good"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "electronics",
+      "name": "phone",
+      "display_name": "phone",
+      "description": "good"
+    },
+    {
+      "category": "electronics",
+      "name": "laptop",
+      "display_name": "lap toop",
+      "description": "good",
+      "id": 3
+    }
+  ]
+}
