@@ -2,7 +2,7 @@
 we’ll be using a moving away from json-server and creating a “real” API server of our own, using Express. Our express server will be coded for modularity and performance. You will replicate the input/output of json-server but storing data in memory to simulate full CRUD functionality, but without persistence.
 ### Author: Osama Mousa
 ### Links and Resources
-- [submission PR class-08](https://github.com/401-advanced-javascript-osama/api-server/pull/3)
+- [submission PR class-08](https://github.com/401-advanced-javascript-osama/api-server/pull/4)
 ### Documentation
 
 * [swagger](https://app.swaggerhub.com/apis/osamamousa204/mongo-api/0.1)
