@@ -23,4 +23,4 @@ we’ll be using a moving away from json-server and creating a “real” API se
 #### Tests
 - Test: `node index.js` / `nodemon` / `npm test` / `npm run lint`
 #### UML
-![UML-Diagram](./uml/mongo.png)
+![UML-Diagram](./uml/mongo2.png)
