@@ -3,6 +3,10 @@ we’ll be using a moving away from json-server and creating a “real” API se
 ### Author: Osama Mousa
 ### Links and Resources
 - [submission PR class-10](https://github.com/401-advanced-javascript-osama/api-server/pull/6)
+
+- [documentation]()
+- [deployed url]()
+
 ### Documentation
 
 * [swagger](https://app.swaggerhub.com/apis/osamamousa204/mongo-api/0.1)
