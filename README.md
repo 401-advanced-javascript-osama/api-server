@@ -1,5 +1,5 @@
 # LAB: Express
-we’ll be using a moving away from json-server and creating a “real” API server of our own, using Express. Our express server will be coded for modularity and performance. You will replicate the input/output of json-server but storing data in memory to simulate full CRUD functionality, but without persistence.
+we’ll be using a moving away from json-server and creating a “real” API server of our own, using Express. Our express server will be coded for modularity and performance.we will be migrating from in-memory data storage to using Mongo to store our data permanently, and modularizing our routes for flexibility. Through it all, we will be providing the same interface to our users. To the outside world, our API remains unchanged
 ### Author: Osama Mousa
 ### Links and Resources
 - [submission PR class-08](https://github.com/401-advanced-javascript-osama/api-server/pull/3)
