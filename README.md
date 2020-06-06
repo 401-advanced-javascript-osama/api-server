@@ -2,7 +2,7 @@
 we’ll be using a moving away from json-server and creating a “real” API server of our own, using Express. Our express server will be coded for modularity and performance.we will be migrating from in-memory data storage to using Mongo to store our data permanently, and modularizing our routes for flexibility. Through it all, we will be providing the same interface to our users. To the outside world, our API remains unchanged
 ### Author: Osama Mousa
 ### Links and Resources
-- [submission PR class-09](https://github.com/401-advanced-javascript-osama/api-server/pull/6)
+- [submission PR class-10](https://github.com/401-advanced-javascript-osama/api-server/pull/6)
 ### Documentation
 
 * [swagger](https://app.swaggerhub.com/apis/osamamousa204/mongo-api/0.1)
