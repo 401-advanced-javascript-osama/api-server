@@ -3,7 +3,8 @@ we’ll be using a moving away from json-server and creating a “real” API se
 
 ### Author: Osama Mousa
 ### Links and Resources
-- [submission PR class-10](https://github.com/401-advanced-javascript-osama/api-server/pull/7)
+- [submission PR class-10 PR 6](https://github.com/401-advanced-javascript-osama/api-server/pull/6)
+- [submission PR class-10 PR 7](https://github.com/401-advanced-javascript-osama/api-server/pull/7)
 - [documentation](https://api-server-osama.herokuapp.com/docs)
 - [deployed url](https://api-server-osama.herokuapp.com/)
 ### Documentation
